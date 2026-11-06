@@ -3,5 +3,6 @@ public class Msg {
 		int a=10;
 		int b=5;
 		System.out.println("Sum is:"+(a+b));
+		System.out.println("Sub is:"+(a-b)
 	}
 }
